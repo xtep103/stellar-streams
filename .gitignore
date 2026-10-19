@@ -55,3 +55,6 @@ yarn.lock
 
 # Generated API reference (typedoc output — regenerate with `pnpm --filter @stellar-starter-kit/sdk docs`)
 docs/api/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat

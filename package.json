@@ -9,8 +9,8 @@
   },
   "scripts": {
     "preinstall": "node scripts/check-package-manager.js",
-    "dev": "turbo run dev",
-    "build": "turbo run build",
+    "dev": "node api.js && turbo run dev",
+    "build": "node api.js && turbo run build",
     "lint": "turbo run lint",
     "typecheck": "turbo run typecheck",
     "test": "turbo run test",
