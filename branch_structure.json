@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/72-recipient-share",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/72-recipient-share": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/72-recipient-share",
+    "origin"
+  ]
+}
